@@ -1,10 +1,13 @@
 ### Olá! Eu sou o Jhonne Amorim 👋
 
 ### Sobre mim:
-Começando nesse mundo novo de tecnologias, onde me apaixonei demais por cada uma delas.
-Passo bastante tempo estudando, nos tempos livres gosto de assistir series, filmes e jogos de futebol.
-Apaixonado demais por futebol seja pra assistir ou jogar é uma das melhores coisa do mundo.
-Atualmente estudo pra se tornar um developer, foi área da programação onde mais me identifiquei por completo. futuramente vou expandindo meus horizontes de aprendizagem.
+Olá! Sou um entusiasmado programador com experiência em Laravel/PHP e atualmente embarcando em minha jornada no mundo da programação. Estou sempre em busca de novos conhecimentos e oportunidades para aprimorar minhas habilidades e agregar valor a projetos.
+Fora do mundo da programação, sou um apaixonado por futebol e adoro jogar e assistir a partidas sempre que posso. Também tenho uma paixão por jogos de estratégia, como xadrez, o que me ajuda a exercitar minha mente e habilidades analíticas.
+
+
+![Jhonne GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonneAmorim&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneAmorim)](https://github.com/JhonneAmorim/)
 
 ### Contatos:
 

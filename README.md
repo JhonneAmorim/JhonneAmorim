@@ -4,11 +4,6 @@
 Olá! Sou um entusiasmado programador com experiência em Laravel/PHP e atualmente embarcando em minha jornada no mundo da programação. Estou sempre em busca de novos conhecimentos e oportunidades para aprimorar minhas habilidades e agregar valor a projetos.
 Fora do mundo da programação, sou um apaixonado por futebol e adoro jogar e assistir a partidas sempre que posso. Também tenho uma paixão por jogos de estratégia, como xadrez, o que me ajuda a exercitar minha mente e habilidades analíticas.
 
-
-![Jhonne GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonneAmorim&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneAmorim)](https://github.com/JhonneAmorim/)
-
 ### Contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonne-amorim-oliveira-b8b95a243/)

@@ -24,7 +24,7 @@ Fora do mundo da programação, sou um apaixonado por futebol e adoro jogar e as
 
 ![Jhonne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonneAmorim&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonneAmorim&layout=compact&theme=radical)
-![Snake animation](https://github.com/seuusername/seuusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JhonneAmorim/JhonneAmorim/blob/output/github-contribution-grid-snake.svg)
 
 
 
